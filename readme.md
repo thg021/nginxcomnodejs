@@ -21,11 +21,7 @@ Tecnologias usadas:
 
 ## Instalação
 
-Fazer uma cópia do projeto em sua máquina
-
-```sh
-docker pull thgsdev/codeeducation
-```
+Fazer uma cópia do projeto para sua máquina
 
 Executar o comando abaixo para iniciar os container do banco de dados, node e nginx
 
