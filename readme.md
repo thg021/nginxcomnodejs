@@ -7,7 +7,7 @@ Nesse desafio utilizamos o nginx como proxy reverso.
 - Utilizar o nginx como proxy reverso
 - Adicionar registro no banco de dados MySQL
 - Ter retorno na aplicação Nodejs com os seguintes dados:
-    - <h1>Full Cycle Rocks!</h1>
+    - Full Cycle Rocks!
     - Lista dos nomes cadastrados no banco.
 
 ## Tecnologias
